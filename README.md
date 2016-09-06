@@ -4,4 +4,4 @@
 GitHub Pages for MixaTheme projects.
 
 ---
-Proudly [ethical](//github.com/mixatheme/wpethics) for [WordPress](//wordpress.org) :heart:
+Made in DC :skull: for [WordPress](//wordpress.org)
